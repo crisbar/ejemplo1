@@ -15,6 +15,9 @@ public class Ejemplo1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int n = 25;
+        System.out.println(n + " * 5 = " + (n*5));
+        
     }
     
 }
